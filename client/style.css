@@ -124,7 +124,8 @@ form {
  border-radius: 10px 10px 10px 10px;
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 10px;  
+  color: #FFFFFF;
 }
 
 textarea {
